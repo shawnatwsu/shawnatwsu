@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shawn</h1>
-<h3 align="center">Graduate Student studying Climate</h3>
+<h3 align="center">Physical Scientist @ NOAA</h3>
 
 <p align="left"> <a href="https://twitter.com/science_shawn" target="blank"><img src="https://img.shields.io/twitter/follow/science_shawn?logo=twitter&style=for-the-badge" alt="science_shawn" /></a> </p>
 
-- 🔭 I’m currently working on **extremes in agriculture**
+- 🔭 I’m currently working on **extreme events in the US**
+-Past work includes extreme events on agriculture
 
-- 🌱 I’m currently learning **Python and Global Climate Models**
+- 🌱 Python/Google Earth Engine & Remote Scientist**
 
 - 👯 I’m looking to collaborate on **climate projects**
-
-- 📫 How to reach me **shawnandscience.com**
 
 - ⚡ Fun fact **I have a deaf dog named Newton**
 
