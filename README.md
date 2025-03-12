@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shawn</h1>
-<h3 align="center">Physical Scientist @ NOAA</h3>
+<h3 align="center">EX-Physical Scientist @ NOAA {FEB 2025}</h3>
 
 <p align="left"> <a href="https://twitter.com/science_shawn" target="blank"><img src="https://img.shields.io/twitter/follow/science_shawn?logo=twitter&style=for-the-badge" alt="science_shawn" /></a> </p>
 
