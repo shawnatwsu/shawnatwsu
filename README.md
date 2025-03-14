@@ -8,7 +8,7 @@
 
 - 🌱 Python/Google Earth Engine & Remote Scientist**
 
-- 👯 I’m looking to collaborate on **climate projects**
+- 👯 I’m looking to collaborate on **extreme weather events & projects**
 
 - ⚡ Fun fact **I have a deaf dog named Newton**
 
